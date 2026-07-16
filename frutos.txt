@@ -1,0 +1,343 @@
+Abacate
+Abacaxi
+Abiu
+Abiu Roxo
+Aboirana
+Abricó
+Abrunho
+Abutua
+Açaí
+Acaíba
+Acerola
+Achachairu
+Achuá
+Acumã
+Acuri
+Água-pomba
+Aguaí
+Ajarí
+Ajuru
+Ajuru Preto
+Akee
+Alfarroba
+Algarobo
+Algodãozinho
+Amanatsu
+Amapá
+Ameixa
+Ameixa de Kakadu
+Amêndoa
+Amendoim do Cerrado
+Amora
+Amora Branca
+Amora Branca Silvestre
+Anajá
+Ananás
+Angá
+Angúria
+Anona Lisa
+Apuruí
+Araçá
+Araçá Congonha
+Arando
+Articum
+Araticum de Porco
+Araticum Pecanine
+Aricuri
+Aroeira Vermelha
+Ata
+Atemoia
+Avelã
+Azeitona
+Azeitona do Mato
+Azeitona Preta
+Babaçu
+Bacaba
+Bacupari
+Bacuri
+Bagassa
+Banana
+Banha de Galinha
+Bapeba
+Baru
+Baunilha
+Bergamota
+Biribá
+Borlé
+Boysenberry
+Brejaúva
+Brinco de Mulata
+Buriti
+Burmese Grape
+Cabeça de Nego
+Cacau
+Cacto
+Cagaita
+Caimito
+Cajá
+Caju
+Cajuí
+Cambroé
+Cambucá
+Canho
+Cantalupo
+Caqui
+Caraguatá
+Carambola
+Carnaúba
+Cassis
+Castanha do Pará
+Cereja
+Cereja Ácida
+Ceriguela
+Chichá
+Chirimóia
+Cidra
+Cimboa
+Citrus Japonica
+Citrus Sudachi
+Coco
+Coco Airi
+Conde
+Coroa de Frade
+Cortiça Lisa
+Cortiça Ouriça
+Cubiu
+Cuiarana
+Cupuaçu
+Curriola
+Curriola Rasteira
+Damasco
+Dátil
+Dekopon
+Dendê
+Dióspiro
+Durião
+Embaúba
+Espinheiro Branco
+Espinheiro Marítimo
+Feijoa
+Figo
+Fisalis
+Fortunella
+Framboesa
+Framboesa Amarela
+Fruta da Condessa
+Fruta de Jacu
+Fruta de Lobo
+Fruta de Tatu
+Fruta do Conde
+Fruta Milagrosa
+Fruta Pão
+Gabiroba
+Genipapo
+Ginja
+Goiaba
+Goiaba do Mato
+Goiti
+Goji
+Goumi
+Gravatá
+Graviola
+Groselha
+Groselha Negra
+Grumixama
+Guabiju
+Guaçatonga
+Guajuru
+Guapeva
+Guaraná
+Guariroba
+Gulosa
+Gulosa da Mata Atlântica
+Gulupa
+Gurguri
+Heistéria
+Humiria
+Hylocereus
+Ibapó
+Ibapobó
+Içara
+Imbu
+Inajá
+Ingá
+Inharé
+Iyokan
+Jabuticaba
+Jaca
+Jaci
+Jacuiba
+Jambo
+Jambolão
+Japurá
+Jaracatiá
+Jatobá
+Jenipapo
+Jimbão
+Juá
+Juçara
+Jujuba
+Lacunaria
+Langsat
+Laranja
+Laranja Natal
+Laranja Ouro
+Lichia
+Licuri
+Lima
+Lima Espanhola
+Limão
+Limão Siciliano
+Lobeira
+Lódão
+Loganberry
+Longan
+Louro
+Lúcuma
+Maçã
+Macadâmia
+Maçaranduba
+Macaúba
+Mafai
+Mama Cadela
+Mamão
+Mamão Bravo
+Mamoncillo
+Mamorana
+Maná
+Manga
+Mangaba
+Mangostim
+Maracujá
+Marajá
+Marang
+Mari
+Marmelada
+Marmelo
+Marolo
+Marula
+Medronho
+Melancia
+Melão
+Melão de São Caetano
+Meloa
+Mexerica
+Mikan
+Mirindiba
+Miriti
+Mirtilo
+Moela de Mutum
+Morango
+Morango Abacaxi
+Murici
+Murta
+Murumuru
+Nectarina
+Nêspera
+Noni
+Noz
+Oiti
+Oiticica
+Olho de Boi
+Olho de Dragão
+Oliva
+Opúncia
+Orangelo
+Oxicoco
+Pacová de Macaco
+Paiuetu
+Pajurá
+Panã
+Pão-de-ló de Mico
+Pariri
+Pasionaria
+Pepino Africano
+Pequi
+Pequiá
+Pequiarana
+Pêra
+Perinha do Campo
+Pêssego
+Physalis
+Pindaíba
+Pineberry
+Pinha
+Pinha da Mata
+Pitaia
+Pitaia Vermelha
+Pitanga
+Pitomba
+Pomelo
+Puçá
+Pupunha
+Puruí
+Quararibea
+Quina
+Quiuí
+Quixaba
+Rambutan
+Romã
+Sabra
+Salak
+Sambucus
+Sangue de Cristo
+São Caetano
+Sapota
+Sapoti
+Sapucaia
+Saputá
+Saputá Açu
+Seriguela
+Sombra de Touro
+Sorva
+Sudachi
+Taiúva
+Tâmara
+Tamarillo
+Tamarindo
+Tangelo
+Tangerina
+Tangor
+Tarumarana
+Taperebá
+Tapiá
+Tarumã
+Tatajuba
+Terap
+Tomate
+Tomate de Índio
+Toranja
+Tramazeira
+Tucum
+Tucumã
+Ugli
+Ugni
+Umari
+Umbu
+Umiri
+Uruvaia
+Uva
+Uva Birmanesa
+Uva do Monte
+Uvaia
+Uxi
+Vaccinium
+Vanilla
+Veludo
+Vergamota
+Verguita
+Vitis
+Vitória-régia
+Xinxim
+Xique-Xique
+Xixá
+Zitrone
+Ziziphus
+Kabosu
+Kakadu Plum
+Kinkan
+Kino
+Kiwi
+Kiyomi
+Wampi
+Yuzu

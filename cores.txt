@@ -1,0 +1,241 @@
+Açafrão
+Água/Ciano
+Água-marinha
+Água-marinha Média
+Alizarina
+Amarelo
+Amarelo Brasilis
+Amarelo Claro
+Amarelo Creme
+Amarelo Escuro
+Amarelo Esverdeado
+Amarelo Ouro Claro
+Amarelo Queimado
+Âmbar
+Ameixa
+Amêndoa
+Ametista
+Anil/Índigo
+Aspargo
+Azul
+Azul Aço
+Azul Aço Claro
+Azul Alice
+Azul Ardósia
+Azul Ardósia Claro
+Azul Ardósia Escuro
+Azul Ardósia Médio
+Azul Areado
+Azul Brasilis
+Azul Brasilis Brilhante
+Azul Cadete
+Azul Camarada
+Azul Celeste/Celeste
+Azul Celeste Brilhante
+Azul Céu
+Azul Céu Claro
+Azul Céu Profundo
+Azul Claro
+Azul Cobalto
+Azul Escuro
+Azul Flor de Milho
+Azul Força Aérea
+Azul Furtivo
+Azul Manteiga
+Azul Marinho
+Azul Médio
+Azul Meia-noite
+Azul Petróleo
+Azul Pólvora
+Azul Real
+Azul Safira/Safira
+Azul Taparuere
+Azul Tóquio
+Azul Turquesa
+Azul Turquesa Brilhante
+Azul Violeta
+Bege
+Bordô
+Borgonha
+Branco
+Branco Antigo
+Branco Fantasma
+Branco Floral
+Branco Fumaça
+Branco Gelo/Gelo
+Branco Navajo
+Bronze
+Caqui
+Caqui Escuro
+Caramelo
+Cardo
+Carmesim
+Carmim
+Carmim Carnáceo
+Carmim Clássico
+Castanho/Marrom
+Castanho Avermelhado/Vermelho Escuro
+Castanho Claro
+Celeste/Azul Celeste
+Cenoura
+Cereja
+Cereja Hollywood
+Chocolate
+Ciano/Água
+Ciano Claro
+Ciano Escuro
+Cinza
+Cinza Ardósia
+Cinza Ardósia Claro
+Cinza Ardósia Escuro
+Cinza Claro
+Cinza Escuro
+Cinza Fosco
+Cinza Médio
+Cobre
+Concha
+Coral
+Coral Claro
+Couro
+Creme
+Creme de Marisco
+Creme de Menta
+Dourado
+Dourado Escuro
+Dourado Pálido
+Ébano
+Eminência
+Escarlate
+Esmeralda
+Eucalipto
+Fandango
+Feldspato
+Ferrugem
+Flerte
+Fuchsia/Fucsia/Magenta
+Fuligem
+Gelo/Branco Gelo
+Glitter
+Goiaba
+Grená
+Heliotrópio
+Herbal/Verde Mar
+Independência
+Índigo/Anil
+Iris
+Jade
+Jambo
+Jasmim
+Laranja
+Laranja Claro
+Laranja Escuro
+Lavanda
+Lavanda Avermelhada
+Lilás
+Lima/Verde Lima
+Limão/Verde Limão
+Linho
+Madeira
+Magenta/Fuchsia/Fucsia
+Magenta Escuro
+Malva
+Mamão Batido
+Maná
+Marfim
+Marrom/Castanho
+Marrom Amarelado
+Marrom Claro
+Marrom Rosado
+Marrom Sela
+Milho
+Milho Claro
+Mocassim
+Mostarda
+Naval
+Neve
+Nyanza
+Ocre
+Oliva/Verde Oliva
+Oliva Escura
+Oliva Parda
+Orquídea
+Orquídea Escura
+Orquídea Média
+Ouro
+Pardo/Parda
+Pardo Escuro
+Pêssego
+Prata
+Preto
+Púrpura
+Púrpura Média
+Quantum
+Quartzo
+Renda Antiga
+Rosa
+Rosa Amoroso
+Rosa Brilhante
+Rosa Choque/Rosa Chocante
+Rosa Claro
+Rosa Danação
+Rosa Embaçado
+Rosa Forte
+Rosa Profundo
+Roxo
+Rútilo
+Safira/Azul Safira
+Salmão
+Salmão Claro
+Salmão Escuro
+Sépia
+Siena
+Tangerina
+Terracota
+Tijolo Refratário
+Tomate
+Triássico
+Trigo
+Turquesa
+Turquesa Escura
+Turquesa Média
+Turquesa Pálida
+Ube
+Urucum
+Verde
+Verde Amarelado
+Verde Azulado
+Verde Caraibico/Verde Caribe
+Verde Claro
+Verde Escuro
+Verde Espectro
+Verde Floresta
+Verde Fluorescente
+Verde Grama
+Verde Lima/Lima
+Verde Limão/Limão
+Verde Mar/Herbal
+Verde Mar Claro
+Verde Mar Escuro
+Verde Mar Médio
+Verde Militar/Verde Camuflagem
+Verde Néon
+Verde Oliva/Oliva
+Verde Pálido
+Verde Paris
+Verde Primavera
+Verde Primavera Médio
+Vermelho
+Vermelho Enegrecido
+Vermelho Escuro/Castanho Avermelhado
+Vermelho Indiano
+Vermelho Violeta
+Vermelho Violeta Médio
+Vermelho Violeta Pálido
+Violeta
+Violeta Claro
+Violeta Escuro
+Xanadu
+Zaffre
+Kiwi
+Kobi
+Kobicha
